@@ -1,0 +1,6 @@
+yfinance==0.1.62
+yahoo-fin
+pandas-datareader
+openpyxl
+matplotlib
+nltk
